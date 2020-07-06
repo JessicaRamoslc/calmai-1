@@ -1,4 +1,4 @@
-*{
+body{
       font-family: 'Roboto', sans-serif;
 
 }
@@ -7,7 +7,7 @@
 
 
 .navbar {
-      max-widht: 1200px;
+      /* max-width: 1200px; */
       max-height: 80px;
       padding-left: 100px;
       padding-top: 10px;
@@ -32,7 +32,7 @@
 }
 
      #colunaDois{
-      padding-top: 30px;
+      padding-top: 45px;
     }
 
     
@@ -60,16 +60,17 @@
     }
 
     #formulario {
-     
-      
+     width: 450px;
+      height: 600px;
       background-color: white;
       padding: 20px 20px 20px 20px;
       border-radius: 10px;
-      margin-right: 5px
+      margin-right: 5px;
+      margin-left: 60px;
     }
 
     .texto1 {
-        width: 693px;
+        
         height: 140px;
         left: 62px;
         top: 188px;
@@ -80,8 +81,13 @@
         color: white;
     }
 
+    .texto1 h1{
+      font-size: 35px;
+      padding-left: 30px;
+    }
+
     .texto2 {
-        width: 650px;
+       
         height: 50px;
         left: 62px;
         top: 344px;
@@ -90,10 +96,16 @@
         font-size: 36px;
         line-height: 42px;
         color: #FFFFFF;
+        margin-bottom: 50px;
+    }
+
+    .texto2 h2{
+      font-size: 25px;
+      padding-left: 30px;
     }
 
     .texto3 {
-       width: 650px;
+       
         height: 272px;
         left: 63px;
         top: 418px;
@@ -104,14 +116,27 @@
         color: #FFFFFF;
     }
 
+    .texto3 p{
+      padding-left: 30px;
+      font-size: 18px;
+      line-height: 1.5rem;
+      justify-content: justify;
+    }
+
    .texto4 {
       text-align: center;
-      font-size: 20px;
+      font-size: 40px;
+      padding-bottom: 5px;
       margin-bottom: 18px;
       line-height: inherit;
       font-weight: bold;
       color: black;
          
+    }
+
+    .text4{
+      padding-bottom: 0;
+      height: 50px;
     }
 
     .convidados {
