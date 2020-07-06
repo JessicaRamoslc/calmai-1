@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-
 var countDownDate = new Date("Jul 8, 2020 20:00:00").getTime();
 
 // Update the count down every 1 second
@@ -27,7 +24,7 @@ var x = setInterval(function() {
     clearInterval(x);
     document.getElementById("demo").innerHTML = "EXPIRED";
   }
-=======
+
 
 
 var countDownDate = new Date("Jul 8, 2020 20:00:00").getTime();
@@ -56,5 +53,5 @@ var x = setInterval(function() {
     clearInterval(x);
     document.getElementById("demo").innerHTML = "EXPIRED";
   }
->>>>>>> a99f48ddc8f7bdc784228a47930796175c34febd
+
 }, 1000);
