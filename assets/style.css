@@ -1,29 +1,30 @@
-.banner{
-    background-color: yellow;
-    background-image: url(images/Frame.png);
-}
+.navbar {
+      max-height: 100px;
+      padding-left: 30px;
+      padding-top: 20px;
+    }
 
-   .cronometro{
-    max-width: 600px;
-    font-size: 20px;
-    background-color: whitesmoke;
-    text-align: center;    
-    border-radius: 10px;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
-    padding: 30px;   
+    #rowCronometro {
+      margin-bottom: 50px;
+    }
 
-}
+    .cronometro {
+      max-width: 600px;
+      font-size: 20px;
+      background-color: whitesmoke;
+      text-align: center;
+      border-radius: 10px;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      padding: 30px;
 
-   .cronometro h5{
-        text-decoration: underline;
-        margin-bottom: 20px;
-}
+    }
 
-    #demo{
-        text-align: center;
+    .cronometro h5 {
+      text-decoration: underline;
+      margin-bottom: 20px;
+    }
 
-}    
+    #demo {
+      text-align: center;
 
-.texto{
-  font-size: 30px;
-}
+    }
