@@ -1,0 +1,37 @@
+.contagem{
+   
+width: 456px;
+height: 142px;
+left: 45px;
+top: 219px;
+}
+.texto{
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 41.38%;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 59px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.texto2{
+    left: 4.42%;
+right: 8.23%;
+top: 58.62%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+color: #FFFFFF;
+}
