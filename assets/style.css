@@ -164,8 +164,8 @@
     margin: 0;
   }
   .texto4 {
-    
-    
+    align-items: center;
+    text-align: center;
     left: 923px;
     top: 452px;
     font-style: normal;
