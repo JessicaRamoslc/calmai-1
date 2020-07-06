@@ -20,6 +20,10 @@
       height: 1500px;
     }
 
+     #colunaDois{
+      padding-top: 30px;
+    }
+
     #rowCronometro {
       margin-top: 20px;
       margin-bottom: 50px;
