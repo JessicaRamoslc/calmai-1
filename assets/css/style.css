@@ -49,3 +49,28 @@ line-height: 21px;
 
 color: #FFFFFF;
 }
+.verde{
+    width: 467px;
+height: 468px;
+left: 522px;
+top: 219px;
+
+background: rgba(125, 213, 128, 0.8);
+border-radius: 20px;
+}
+.texto4{
+    width: 466px;
+height: 146px;
+left: 523px;
+top: 228px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;
+
+}
