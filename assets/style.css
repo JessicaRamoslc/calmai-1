@@ -104,8 +104,7 @@
     }
 
    .texto4 {
-      width: 200px;
-      text-align: center!important;
+      text-align: center;
       font-size: 20px;
       margin-bottom: 18px;
       line-height: inherit;
