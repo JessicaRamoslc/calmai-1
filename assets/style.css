@@ -161,7 +161,7 @@ h1, h2, h3, h4{
     color: #14252F;
     }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 300px) {
   #formulario{
     margin: 0;
   }
