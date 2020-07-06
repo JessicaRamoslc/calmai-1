@@ -7,6 +7,12 @@
     
 
     }
+     
+     .container {
+      background-color: #14252F;
+      border-radius: 0 0 20px 20px;
+      height: 1500px;
+    }
 
     #rowCronometro {
       margin-top: 20px;
@@ -44,6 +50,7 @@
         font-weight: bold;
         font-size: 72px;
         line-height: 84px;
+        color: white;
     }
 
     .texto2 {
@@ -56,7 +63,12 @@
         font-weight: bold;
         font-size: 36px;
         line-height: 42px;
+        color: white;
     }
+
+     .texto3 {
+          color: white;
+      }
 
      .texto4 {           
        text-align: center;
