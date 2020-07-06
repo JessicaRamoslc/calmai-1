@@ -147,17 +147,7 @@
     color: #FFFFFF;
    }
 
-   .texto4 {
-    width: 365px;
-    height: 99px;
-    left: 923px;
-    top: 452px;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 25px;
-    line-height: 50px;
-    color: #14252F;
-    }
+   
 
 @media only screen and (max-width: 400px) {
   #formulario{
