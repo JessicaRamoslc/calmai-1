@@ -37,7 +37,7 @@
         font-family: Roboto;
         font-style: normal;
         font-weight: bold;
-        font-size: 72px;
+        font-size: 59px;
         line-height: 84px;
     }
 
@@ -51,4 +51,44 @@
         font-weight: bold;
         font-size: 36px;
         line-height: 42px;
+    }
+
+    .texto3 {
+        width: 707px;
+        height: 272px;
+        left: 63px;
+        top: 418px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 19px;
+    }
+
+    .convidados {
+        width: 195px;
+        height: 40px;
+        left: 59px;
+        top: 726px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .depo p {
+        width: 165px;
+        height: 94px;
+        left: 204px;
+        top: 815px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+    }
+
+    ul.a {
+        list-style-type: circle;
     }
