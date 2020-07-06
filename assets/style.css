@@ -101,7 +101,9 @@
       font-size: 20px;
       margin-bottom: 18px;
       line-height: inherit;
-      color: #FFFFFF;      
+      font-weight: bold;
+      color: black;
+         
     }
 
     .convidados {
