@@ -3,6 +3,10 @@
 
 }
 
+h1, h2, h3, h4{
+      max-width: 400px!important;
+}
+
 
 .navbar {
       max-height: 80px;
