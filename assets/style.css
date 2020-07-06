@@ -89,6 +89,7 @@
         font-weight: 500;
         font-size: 20px;
         line-height: 19px;
+        color: #FFFFFF;
     }
 
    .texto4 {
@@ -96,8 +97,7 @@
       font-size: 20px;
       margin-bottom: 18px;
       line-height: inherit;
-
-      
+      color: #FFFFFF;      
     }
 
     .convidados {
@@ -110,6 +110,7 @@
         font-weight: bold;
         font-size: 30px;
         line-height: 35px;
+        color: #FFFFFF;
     }
 
     .depo p {
@@ -122,6 +123,7 @@
         font-weight: 500;
         font-size: 16px;
         line-height: 19px;
+        color: #FFFFFF;
     }
 
     ul.a {
@@ -129,10 +131,6 @@
         color: white;
     }
 
-     .texto3 {
-          color: white;
-      }
-
-     .texto4 {           
-       text-align: center;
-    }
+   .depo {
+    color: #FFFFFF;
+   }
