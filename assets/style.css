@@ -90,6 +90,15 @@
         line-height: 19px;
     }
 
+   .texto4 {
+      text-align: center!important;
+      font-size: 20px;
+      margin-bottom: 18px;
+      line-height: inherit;
+
+      
+    }
+
     .convidados {
         width: 195px;
         height: 40px;
