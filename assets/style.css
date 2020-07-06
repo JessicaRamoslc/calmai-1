@@ -40,6 +40,13 @@
 
     }
 
+    #formulario {
+      background-color: beige;
+      padding: 20px 20px 20px 20px;
+      border-radius: 10px;
+      margin-right: 20px;
+    }
+
     .texto1 {
         width: 693px;
         height: 140px;
