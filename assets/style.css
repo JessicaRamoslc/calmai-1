@@ -17,7 +17,8 @@
      .container {
       background-color: #14252F;
       border-radius: 0 0 20px 20px;
-      height: 1500px;
+      width: 1500px;
+      height: 1291px;
     }
 
      #colunaDois{
@@ -62,7 +63,6 @@
         height: 140px;
         left: 62px;
         top: 188px;
-        font-family: Roboto;
         font-style: normal;
         font-weight: bold;
         font-size: 59px;
@@ -75,7 +75,6 @@
         height: 50px;
         left: 62px;
         top: 344px;
-        font-family: Roboto;
         font-style: normal;
         font-weight: bold;
         font-size: 36px;
@@ -88,7 +87,6 @@
         height: 272px;
         left: 63px;
         top: 418px;
-        font-family: Roboto;
         font-style: normal;
         font-weight: 500;
         font-size: 20px;
@@ -109,7 +107,6 @@
         height: 40px;
         left: 59px;
         top: 726px;
-        font-family: Roboto;
         font-style: normal;
         font-weight: bold;
         font-size: 30px;
@@ -122,7 +119,6 @@
         height: 94px;
         left: 204px;
         top: 815px;
-        font-family: Roboto;
         font-style: normal;
         font-weight: 500;
         font-size: 16px;
@@ -138,3 +134,15 @@
    .depo {
     color: #FFFFFF;
    }
+
+   .texto4 {
+    width: 365px;
+    height: 99px;
+    left: 923px;
+    top: 452px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 50px;
+    color: #14252F;
+    }
