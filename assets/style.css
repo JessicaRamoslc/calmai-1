@@ -75,7 +75,7 @@
     }
 
     .texto2 {
-        
+        width: 650px;
         height: 50px;
         left: 62px;
         top: 344px;
@@ -87,7 +87,7 @@
     }
 
     .texto3 {
-        width: 500px;
+       width: 650px;
         height: 272px;
         left: 63px;
         top: 418px;
@@ -99,6 +99,7 @@
     }
 
    .texto4 {
+      width: 650px;
       text-align: center!important;
       font-size: 20px;
       margin-bottom: 18px;
