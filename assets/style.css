@@ -3,7 +3,7 @@ body{
 
 }
 .container{
-margin:0;
+position: cover;
 }
 .navbar {
       /* max-width: 1200px; */
