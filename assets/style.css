@@ -20,10 +20,9 @@ position: cover;
     }
      
      .container{
-      max-width: 1376px;
+      max-width: 100%;
       background-color: #14252F;
-      border-radius: 0 0 20px 20px;
-      height:931px;
+      height:944px;
     }
 
 #content{
@@ -174,6 +173,33 @@ position: cover;
     color: #FFFFFF;
    }
 
+   .input {
+    border: 2px solid #8a97d3;
+    padding: 15px;
+    height: 45px;
+    line-height: 45px;
+    color: gray;
+    font-size: 18px;
+    width: 100%;
+    border-radius: 500px;
+    margin-bottom: 15px;
+    }
+    
+   #botao_live{
+    width: 100%;
+    border-radius: 500px;
+    border: 0;
+    background: #0029FA;
+    font-weight: bold;    
+    font-size: 16px;
+    text-align: center;
+    line-height: 40px;
+    height: 45px;
+    color: white;
+    cursor: pointer;
+    transition: all .2s ease;
+    border: 2px solid transparent;
+   }
    
 
 @media only screen and (max-width: 480px) {
