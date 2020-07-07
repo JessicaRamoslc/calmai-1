@@ -176,7 +176,7 @@ position: cover;
     color: #FFFFFF;
    }
 
-   .input {
+   .button {
      background-color: white;
     border: 2px solid black;
     padding: 15px;
@@ -190,7 +190,7 @@ position: cover;
     transition-duration: 0.5s;
     }
      
-    .input:hover {
+    .button:hover {
       background-color: #4CAF50;
       color: white;
     }
