@@ -71,16 +71,16 @@ position: cover;
     }
 
     .texto1 {
-        
-        height: 140px;
-        left: 62px;
-        top: 188px;
-        font-style: normal;
-        font-weight: bold;
-        font-size: 35px;
-        line-height: 75px;
-        color: white;
-        padding-left: 60px;
+      height: 170px;
+      left: 62px;
+      top: 188px;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 43px;
+      line-height: 55px;
+      color: white;
+      padding-left: 60px;
+      margin-top: 45px;
     }
 
     .texto1 h1{
@@ -89,19 +89,16 @@ position: cover;
     }
 
     .texto2 {
-       
-        height: 50px;
-        left: 62px;
-        top: 344px;
-        font-style: normal;
-        font-weight: bold;
-        font-size: 30px;
-        line-height: 25x;
-        color: #FFFFFF;
-        margin-bottom: 50px;
-        padding-left: 60px;
-        margin-top: 0;
-    }
+      height: 100px;
+      left: 62px;
+      top: 345px;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 30px;
+      color: #FFFFFF;
+      padding-left: 60px;
+      margin-top: 45px;
+  }
 
     .texto2 h2{
       font-size: 28px;
@@ -122,9 +119,9 @@ position: cover;
 
     .texto3 p{
       
-      font-size: 18px;
+      font-size: 20px;
       line-height: 1.5rem;
-      justify-content: justify;
+      text-align: justify;
     }
 
    .texto4 {
