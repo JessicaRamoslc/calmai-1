@@ -176,23 +176,23 @@ position: cover;
     color: #FFFFFF;
    }
 
-   .button {
-     background-color: white;
-    border: 2px solid black;
+   .button  {
+     background-color: white !important;
+    border: 2px solid black !important;
     padding: 15px;
     height: 45px;
     line-height: 45px;
-    color: #6DC06F;
+    color: #6DC06F !important;
     font-size: 18px;
     width: 100%;
     border-radius: 500px;
     margin-bottom: 15px;
-    transition-duration: 0.5s;
+    transition-duration: 0.5s !important;
     }
      
     .button:hover {
-      background-color: #4CAF50;
-      color: white;
+      background-color: #4CAF50 !important;
+      color: white !important;
     }
    
     .col-md-6 {
