@@ -47,7 +47,7 @@ position: cover;
 
     }
 
-    .cronometro h5 {
+    .cronometro h4,h5 {
       text-decoration: underline;
       margin-bottom: 20px;
     }
