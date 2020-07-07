@@ -50,6 +50,10 @@ i.fa {
     line-height: unset;
   }
 
+ #telegram{
+    text-align: center;
+  }
+
   .whatsapp-share-button{
     display: inline-block;            
     width: 50px;
