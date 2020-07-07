@@ -178,7 +178,7 @@ position: cover;
 
    .btn  {
      background-color: white !important;
-    border: 2px solid black !important;
+    border: 1px solid black !important;
     padding: 15px;
     height: 45px;
     line-height: 45px;
