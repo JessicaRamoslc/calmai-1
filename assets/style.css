@@ -207,7 +207,22 @@ position: cover;
       margin: auto;
     }
 
-    
+    div#footer {
+      background-color: #6DC06F;
+      text-align: center;
+    }
+
+    address {
+      margin-bottom: 1rem;
+      font-style: normal;
+      line-height: inherit;
+      margin: auto;
+      font-size: 15px;
+    }
+
+    span.copy {
+      font-size: 18px;
+    }
 @media only screen and (max-width: 480px) {
 
   
