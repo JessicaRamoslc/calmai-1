@@ -176,7 +176,7 @@ position: cover;
     color: #FFFFFF;
    }
 
-   .btn  {
+   .button  {
      background-color: white !important;
     border: 1px solid black !important;
     padding: 15px;
@@ -190,7 +190,7 @@ position: cover;
     transition-duration: 0.5s !important;
     }
      
-    .btn:hover {
+    .button:hover {
       background-color: #4CAF50 !important;
       color: white !important;
     }
