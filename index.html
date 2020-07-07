@@ -141,7 +141,13 @@
       </div>
     </div>
   </div>
-  
+  <script language="JavaScript">
+  window.onbeforeunload = confirmExit;
+  function confirmExit()
+  {
+    return "Se você fechar o navegador, seus dados serão perdidos. Deseja Realmente sair?";
+  }
+</script>
     <script src="https://www.calmai.ml/assets/js/script.js"></script>
     <!-- JavaScript (Opcional) -->
     <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
