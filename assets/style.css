@@ -211,7 +211,14 @@ position: cover;
 
     span.copy {
       font-size: 18px;
-    }
+    } 
+
+    .img-fluid {
+      max-width: 100%;
+      height: auto;
+      width: 165px;
+      margin-top: 13px;
+  }
 
 @media only screen and (max-width: 480px) {
 
