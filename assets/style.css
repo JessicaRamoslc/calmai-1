@@ -201,7 +201,13 @@ position: cover;
     border: 2px solid transparent;
    }
    
+    
+    .col-md-6 {
+      text-align: center;
+      margin: auto;
+    }
 
+    
 @media only screen and (max-width: 480px) {
 
   
