@@ -24,26 +24,26 @@ var x = setInterval(function() {
   position: relative; margin-left: -15px;  margin-right:23px; border:black 2px solid; padding: 15px;">
   <p">${days}</p>
   <p style="border: none;
-  outline: 0; margin-top:  -25px">dia</p>
+  outline: 0; margin-top:  -20px">dia</p>
 </div>
 <div id="floatContainer" style="
   position: relative; margin-right:23px; border:black 2px solid; padding: 15px; ">
   <p>${hours}</p>
   
   <p style="border: none;
-  outline: 0; margin-top:  -25px">h</p>
+  outline: 0; margin-top:  -20px">h</p>
 </div>
 <div id="floatContainer" style="
   position: relative; margin-right:23px; border:black 2px solid; padding: 15px; ">
   <p>${minutes}</p>
   <p style="border: none;
-  outline: 0; margin-top:  -25px"> m </p>
+  outline: 0; margin-top:  -20px"> m </p>
 </div>
 <div id="floatContainer" style="
   position: relative; margin-right:23px; border:black 2px solid; padding: 15px; ">
   <p>${seconds}</p>
   <p style="border: none;
-  outline: 0; margin-top:  -25px">s</p>
+  outline: 0; margin-top:  -20px">s</p>
 </div>
   </div>
   `;
