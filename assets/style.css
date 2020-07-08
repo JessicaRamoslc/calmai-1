@@ -235,7 +235,7 @@ footer .row{
       padding: 2px !important;
       font-weight: bold !important;
       margin: 15px -6px !important;
-      text-align: center;
+      text-align: center !important;
     }
       
      .button:hover {
