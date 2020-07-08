@@ -475,6 +475,17 @@ div#content {
     
     
   }
+      
+ #demo{
+   padding-left: -80px;
+  }
+      
+  #divScript{
+    /* background-color: red; */
+    padding: 0!important;
+    height: 50px!important;
+    padding-left: 80px!important;
+  }
   
   
   #formulario{
