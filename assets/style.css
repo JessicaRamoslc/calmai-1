@@ -397,6 +397,10 @@ footer .row{
   color: #14252F; 
 }
 
+div#content {
+  margin-top: 140px !important;
+}
+
 @media only screen and (max-width: 480px) {
 
   
@@ -630,3 +634,9 @@ footer .row{
    background-color: #4CAF50 !important;
    color: white !important;
  }
+
+ .h6, h6 {
+  font-size: 1.5rem;
+  color: red;
+  text-decoration: underline;
+}
