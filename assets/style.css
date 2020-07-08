@@ -22,7 +22,7 @@ position: cover;
      .container{
       max-width: 100%;
       background-color: #14252F;
-      height:944px;
+      height: 800px;
     }
 
     #content{
@@ -30,7 +30,7 @@ position: cover;
 }
 
      #colunaDois{
-      padding-top: 45px;
+      padding-top: 50px;
       
     }
 
@@ -71,16 +71,16 @@ position: cover;
     }
 
     .texto1 {
-      height: 170px;
+      height: 140px;
       left: 62px;
       top: 188px;
       font-style: normal;
       font-weight: bold;
-      font-size: 43px;
-      line-height: 55px;
+      font-size: 35px;
+      line-height: 75px;
       color: white;
       padding-left: 60px;
-      margin-top: 45px;
+     
     }
 
     .texto1 h1{
@@ -89,14 +89,17 @@ position: cover;
     }
 
     .texto2 {
-      height: 100px;
+      height: 50px;
       left: 62px;
-      top: 345px;
+      top: 344px;
       font-style: normal;
       font-weight: bold;
       font-size: 30px;
+      line-height: 25px;
       color: #FFFFFF;
+      margin-bottom: 50px;
       padding-left: 60px;
+      margin-top: 0;
     }
 
     .texto2 h2{
@@ -118,7 +121,7 @@ position: cover;
 
     .texto3 p{
       
-      font-size: 20px;
+      font-size: 18px;
       line-height: 1.5rem;
       text-align: justify;
     }
@@ -238,11 +241,159 @@ position: cover;
       color: gray;
     }
 
+.convidados {
+  margin-bottom: -300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: -600px;
+  margin-left: -200px;
+  padding-top: 40px;
+
+
+
+}
+
+#titleConvidados {
+  font-size: 70px;
+  text-align: center;
+  
+}
+
+
+
+
+.nomeConvidado{
+  text-align: unset;
+  padding-left: 50px!important;
+  margin-left: 90px;
+  margin-top: 30px;
+  
+}
+
+
+.convidados img {
+  width: 250px !important;
+  height: 250px !important;
+  margin-left: 80px;
+  margin-top: 100px;
+  border-radius: 150px;
+}
+
+/* .convidado1{
+     display: flex;
+     flex-direction: row;
+     padding-top: -90px;
+     
+   }
+
+   .convidado2{
+    display: flex;
+    flex-direction: row;
+    padding-top: -90px;
+    
+  }
+
+  .convidado3{
+    display: flex;
+    flex-direction: row;
+    padding-top: -90px;
+    
+  } */
+
+.convidado1 p {
+  margin-left: 20px;
+  width: 300px;
+  text-align: center;  
+  font-weight: lighter;
+}
+
+.convidado2 p {
+  margin-left: 20px;
+  width: 300px;
+  text-align: center;  
+  font-weight: lighter;
+}
+
+.convidado3 p {
+  margin-right: 80px;
+  width: 300px;
+  text-align: left;  
+  font-weight: lighter;
+}
+
+.convidado1,
+.convidado2,
+.convidado3 {
+
+  width: 150px !important;
+  height: 150px !important;
+
+}
+
+.convidado1 img{
+  margin-top: 130px;
+  
+}
+
+
+
+.convidado3 img{
+  margin-top: 180px;
+}
+
+
+
+.descricao {
+  margin-top: 18px;
+  font-size: 18px;
+  line-height: 2rem;
+  min-width: 280px;
+  
+}
+
+.convidado3 .descricao{
+  margin-left: 90px;
+  text-align: center;
+}
+
+#containerConvidados {
+  
+  align-items: center;
+}
+
+.tituloConvidada{
+  color: #14252F; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media only screen and (max-width: 480px) {
 
   
   #menuNav{
-    max-width: 300px;
+    max-width: 350px;
   
   }
 
@@ -263,11 +414,17 @@ position: cover;
   }
 
   .colunaUm{
-    height: 2100px;
+    height: 3500px;
   }
 
+  #colunaDois {
+    margin-top: -1250px;
+    padding-bottom: -2300px;
+
+
+  }
   #content{
-    max-height: auto;
+    max-height: 1900px;
   }
   
   #formulario{
@@ -316,4 +473,124 @@ position: cover;
       text-decoration: none;
       
     }
+      
+     .convidados {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: -1550px;
+  }
+
+  .convidados img {
+    width: 200px !important;
+    height: 200px !important;
+    margin-top: 20px;
+    margin-left: 30px;
+
+
+  }
+
+
+
+
+  .convidado1 .descricao {
+
+    padding-left: 0;
+    padding-right: 30px;
+    text-align: center;
+    margin-bottom: 190px;
+    width: 350px;
+    margin-left: -25px;
+    padding-bottom: 90px;
+
+  }
+
+  .convidado2 .descricao {
+    padding-left: 0;
+    padding-right: 30px;
+    text-align: center;
+    margin-bottom: 190px;
+    width: 350px;
+    margin-left: -25px;
+    padding-bottom: 90px;
+
+  }
+
+  .convidado3 .descricao {
+    padding-left: 0;
+    padding-right: 30px;
+    text-align: center;
+    margin-bottom: 190px;
+    width: 350px;
+    margin-left: -25px;
+    padding-bottom: 90px;
+    font-family: 'Lato', sans-serif !important;
+    margin-top: -10px;
+  }
+
+  .convidado3 img{
+    margin-top: 30px!important;
+    padding-bottom: -30px;
+  }
+  #titleConvidados {
+    
+    padding-left: 30px;
+    margin-left: 0;
+
+    padding-bottom: -700px;
+    font-size: 40px;
+    margin-top: 150px;
+  }
+
+  .convidado1 {
+    height: 400px !important;
+    margin-top: -850px;
+    padding-left: 80px;
+  }
+
+  .convidado2 {
+    height: 420px !important;
+    padding-left: 80px;
+
+  }
+
+  .convidado3 {
+    height: 500px !important;
+    padding-left: 80px;
+  }
+
+  .descricao {
+    font-size: 18px;
+    font-weight: lighter;
+    line-height: 1.75rem;
+    margin-bottom: 50px;
+  }
+
+  .nomeConvidado {
+    padding-left: -180px!important;
+    width: 200px;
+    padding-left: 0!important;
+    margin-left: 50px;
+  }
+
+  .tituloConvidada{
+    text-align: center;
+    width: 200px;
+    padding-left: 40px;
+    margin-top: 80px;
+    padding-top: 40px;
+    color: white;
+  }
+
+  .convidado3{
+    margin-top: 150px;
+  }
+
+  .convidado1 p{
+    margin-left: -17px;
+  }
+
+  .convidado2 p {
+    margin-left: -17px;
+  }
 }
