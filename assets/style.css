@@ -80,12 +80,12 @@ padding-top: 50px;
 
     .modal-header {
       display: flex;
-      padding: 10px 10px 10px 175px;
+      padding: 10px 10px 10px 190px;
       border-bottom: 2px solid #6DC06F;
       border-top-left-radius: 0.3rem;
       border-top-right-radius: .3rem;
   }
-  
+
     .texto1 {
       height: 140px;
       left: 62px;
