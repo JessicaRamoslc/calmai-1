@@ -151,7 +151,8 @@ position: cover;
 
     .text4{
       padding-bottom: 0;
-      height: 50px;
+      height: 50px;      
+      width: 100%;    
     }
 
     .convidados {
@@ -233,7 +234,7 @@ footer .row{
       transition-duration: 0.5s !important;
       padding: 2px !important;
       font-weight: bold !important;
-      margin: auto !important;
+      margin: 15px -6px !important;
     }
       
      .button:hover {
