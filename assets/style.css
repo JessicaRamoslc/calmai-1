@@ -197,6 +197,11 @@ position: cover;
       text-align: center;
     }
 
+#footer row{
+   margin-right: 0; 
+   margin-left: 0;
+}
+
     address {
       margin-bottom: 1rem;
       font-style: normal;
