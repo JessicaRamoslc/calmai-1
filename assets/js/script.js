@@ -19,28 +19,28 @@ var x = setInterval(function() {
     
   // Output the result in an element with id="demo"
   document.getElementById("demo").innerHTML = `
-  <div style="display: flex; padding: 20px">
+  <div style="display: flex; padding-left: 180px">
 <div id="floatContainer" style="
-  position: relative; margin-left: -15px;  margin-right:23px; padding: 20px;">
+  position: relative; margin-right:25px; padding-bottom: 30px;">
   <p">${days}</p>
   <p style="border: none;
   outline: 0; margin-top:  -20px">dia</p>
 </div>
 <div id="floatContainer" style="
-  position: relative; margin-right:23px; padding: 20px; ">
+  position: relative; margin-right:25px; padding-bottom: 30px;">
   <p>${hours}</p>
   
   <p style="border: none;
   outline: 0; margin-top:  -20px">h</p>
 </div>
 <div id="floatContainer" style="
-  position: relative; margin-right:23px; padding: 20px; ">
+  position: relative; margin-right:25px; padding-bottom: 30px;">
   <p>${minutes}</p>
   <p style="border: none;
   outline: 0; margin-top:  -20px"> m </p>
 </div>
 <div id="floatContainer" style="
-  position: relative; margin-right:23px; padding: 20px; ">
+  position: relative; margin-right:25px; padding-bottom: 30px; ">
   <p>${seconds}</p>
   <p style="border: none;
   outline: 0; margin-top:  -20px">s</p>
