@@ -37,7 +37,7 @@ var x = setInterval(function() {
   position: relative; margin-right:23px; border:black 2px solid; padding: 15px; ">
   <p>${minutes}</p>
   <p style="border: none;
-  outline: 0; margin-top:  -25px">m</p>
+  outline: 0; margin-top:  -25px">min</p>
 </div>
 <div id="floatContainer" style="
   position: relative; margin-right:23px; border:black 2px solid; padding: 15px; ">
