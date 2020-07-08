@@ -197,7 +197,7 @@ position: cover;
       text-align: center;
     }
 
-#footer row{
+footer .row{
    margin-right: 0; 
    margin-left: 0;
 }
