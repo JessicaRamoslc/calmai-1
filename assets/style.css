@@ -207,16 +207,16 @@ position: cover;
     .button {
       background-color: white !important;
       border: 1px solid black !important;
-      height: 45px;
-      line-height: 40px;
+      height: 45px !important;
+      line-height: 40px !important;
       color: #6DC06F !important;
-      font-size: 35px;
-      width: 100%;
-      border-radius: 400px;
+      font-size: 35px !important;
+      width: 100% !important;
+      border-radius: 400px !important;
       transition-duration: 0.5s !important;
-      padding: 2px;
-      font-weight: bold;
-      margin: auto;
+      padding: 2px !important;
+      font-weight: bold !important;
+      margin: auto !important;
   }
       
      .button:hover {
@@ -225,20 +225,20 @@ position: cover;
      }
 
     .mce-FNAME{
-      padding: 0 70px;
-      margin-bottom: 20px;
-      display: block;
-      width: 100%;
+      padding: 0 70px !important;
+      margin-bottom: 20px !important;
+      display: block !important;
+      width: 100% !important;
     }
 
     #mce-EMAIL{
-      background: #FFFFFF;
-      border: 1px solid #CFCFDB;
-      border-radius: 4px;
-      height: 50px;
-      padding: 10px;
-      font-size: 18px;
-      color: gray;
+      background: #FFFFFF !important;
+      border: 1px solid #CFCFDB !important;
+      border-radius: 4px !important;
+      height: 50px !important;
+      padding: 10px !important;
+      font-size: 18px !important;
+      color: gray !important;
     }
 
 .convidados {
