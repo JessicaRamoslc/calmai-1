@@ -54,3 +54,15 @@ var x = setInterval(function() {
     document.getElementById("demo").innerHTML = "JÁ COMEÇOU!";
   }
 }, 1000);
+
+//Exit Intent PopUp
+
+var cont = 0;
+var maxContador = 1;
+
+document.addEventListener('mouseleave', function () {
+  if (cont < maxContador) {
+    $("#exampleModal").modal('show');
+    cont += 1;
+  }
+})
