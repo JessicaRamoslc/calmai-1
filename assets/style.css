@@ -281,7 +281,7 @@ footer .row{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    margin-top: -600px;
+    margin-top: -500px;
     margin-left: -200px;
     padding-top: 40px;
     }
