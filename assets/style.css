@@ -1,13 +1,13 @@
-    body{
-    font-family: 'Roboto', sans-serif;
+body{
+      font-family: 'Roboto', sans-serif;
 
-    }
-    .container{
-    position: cover;
-    }
-    .navbar {
+}
+.container{
+position: cover;
+}
+.navbar {
       /* max-width: 1200px; */
-      max-height: 80px;
+      max-height: 90px;
       padding-left: 100px;
       padding-top: 10px;
       
@@ -15,9 +15,21 @@
       box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
     }
 
-    .navbar img{
-      padding-bottom: 20px;
+    .navbarRedes{
+      padding-right: 20px;
+      padding-top: 15px; 
+       
+      
     }
+
+    .navbarRedes img{
+      width: 35px;
+      height: 35px;
+      margin-left: 5px;  
+      
+    }
+
+    
      
      .container{
       max-width: 100%;
@@ -33,7 +45,9 @@
       padding-top: 50px;
       
     }
-  
+
+    
+
     .cronometro {
       max-width: 600px;
       font-size: 16px;
@@ -46,22 +60,16 @@
 
     }
 
-    .h4, h4 {
-      font-size: 30px;
-    }
     .cronometro h5 {
       text-decoration: underline;
       margin-bottom: 20px;
       color: red;
-      font-size: 25px;
     }
 
     #demo {
-      font-weight: bold;
       text-align: center;
-      border: 1px solid red;
+      border: 2px solid red;
       border-radius: 10px;
-      font-size: 24px;
     }
 
     #formulario {
@@ -252,14 +260,6 @@
       color: gray !important;
     }
 
-    .texto-spam {
-      width: 100%;
-      padding: 5px;
-      color: #222;
-      font-size: 14px;
-      text-align: center;
-    }
-    
 .convidados {
   margin-bottom: -300px;
   display: flex;
@@ -385,6 +385,29 @@
   color: #14252F; 
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media only screen and (max-width: 480px) {
 
   
@@ -398,9 +421,23 @@
     box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.25);
   }
       
+  #logoNav{
+    width: 80px;
+    padding-left: -50px;
+    margin-left: -80px;
+    
+   
+  }
+ .navbarRedes img{
+    
+    max-width: 30px!important;
+    max-height: 30px!important;
+    padding-right: -60px!important;
+     
+   }
+      
   img{
-    width: 170px!important;
-    height: 85px!important;
+    width: 110px!important;    
     padding-left: 10px;
     padding-top: 8px;
     padding-bottom: 5px;
@@ -480,6 +517,9 @@
 
 
   }
+
+
+
 
   .convidado1 .descricao {
 
