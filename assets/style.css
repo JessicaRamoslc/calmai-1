@@ -236,28 +236,31 @@ position: cover;
        color: white !important;
      }
 
-    .mce-FNAME{
-      padding: 0 70px !important;
-      margin-bottom: 20px !important;
-      display: block !important;
-      width: 100% !important;
+    input#mce-FNAME{  
+    background: #FFFFFF !important;
+    border: 1px solid #14252F !important;
+    border-radius: 4px !important;
+    height: 50px !important;
+    padding: 10px !important;
+    font-size: 20px !important;
+    color: #14252F !important;    
     }
 
     #mc_embed_signup .mc-field-group label {
-      display: block;
-      margin-bottom: 10px;
-      font-size: 20px;
-      font-weight: bold;
+      display: block !important;
+      margin-bottom: 15px !important;
+      font-size: 21px !important;
+      font-weight: bold !important;
     }   
 
     #mce-EMAIL{
       background: #FFFFFF !important;
-      border: 1px solid #CFCFDB !important;
+      border: 1px solid #14252F !important;
       border-radius: 4px !important;
       height: 50px !important;
       padding: 10px !important;
-      font-size: 18px !important;
-      color: gray !important;
+      font-size: 20px !important;
+      color: #14252F !important;
     }
 
     .texto-spam {
