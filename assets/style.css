@@ -437,6 +437,7 @@ position: cover;
    }
       
   img{
+    margin-left: -80px;
     width: 110px!important;    
     padding-left: 10px;
     padding-top: 8px;
