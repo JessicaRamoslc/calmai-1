@@ -159,25 +159,25 @@
     }
 
     .depo p {
-        width: 165px;
-        height: 94px;
-        left: 204px;
-        top: 815px;
-        font-style: normal;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 19px;
-        color: #FFFFFF;
+    width: 165px;
+    height: 94px;
+    left: 204px;
+    top: 815px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
     }
 
     ul.a {
-        list-style-type: circle;
-        color: white;
+    list-style-type: circle;
+    color: white;
     }
 
-   .depo {
-    color: #FFFFFF;
-   }
+    .depo {
+      color: #FFFFFF;
+    }
 
     .col-md-6 {
       text-align: center;
@@ -221,7 +221,7 @@
       padding: 2px !important;
       font-weight: bold !important;
       margin: auto !important;
-  }
+    }
       
      .button:hover {
        background-color: #4CAF50 !important;
@@ -253,25 +253,22 @@
     }
 
     .texto-spam {
-      width: 100%;
-      padding: 5px;
-      color: #222;
-      font-size: 14px;
-      text-align: center;
+      width: 100% !important;
+      padding: 5px !important;
+      color: #222 !important;
+      font-size: 14px !important;
+      text-align: center !important;
     }
     
-.convidados {
-  margin-bottom: -300px;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
-  margin-top: -600px;
-  margin-left: -200px;
-  padding-top: 40px;
-
-
-
-}
+    .convidados {
+    margin-bottom: -300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: -600px;
+    margin-left: -200px;
+    padding-top: 40px;
+    }
 
 #titleConvidados {
   font-size: 70px;
