@@ -18,7 +18,7 @@ var x = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
     
   // Output the result in an element with id="demo"
-  document.getElementById("demo").innerHTML = `
+  /*document.getElementById("demo").innerHTML = `
   <div style="display: flex; padding: 20px">
 <div id="floatContainer" style="
   position: relative; margin-left: -15px;  margin-right:23px; border:black 2px solid; padding: 20px;">
@@ -53,4 +53,4 @@ var x = setInterval(function() {
     clearInterval(x);
     document.getElementById("demo").innerHTML = "JÁ COMEÇOU!";
   }
-}, 1000);
+}, 1000);*/
