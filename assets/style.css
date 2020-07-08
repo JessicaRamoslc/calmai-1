@@ -71,16 +71,16 @@ position: cover;
     }
 
     .texto1 {
-      height: 170px;
+      height: 140px;
       left: 62px;
       top: 188px;
       font-style: normal;
       font-weight: bold;
-      font-size: 43px;
-      line-height: 55px;
+      font-size: 35px;
+      line-height: 75px;
       color: white;
       padding-left: 60px;
-      margin-top: 45px;
+     
     }
 
     .texto1 h1{
@@ -89,14 +89,17 @@ position: cover;
     }
 
     .texto2 {
-      height: 100px;
+      height: 50px;
       left: 62px;
-      top: 345px;
+      top: 344px;
       font-style: normal;
       font-weight: bold;
       font-size: 30px;
+      line-height: 25px;
       color: #FFFFFF;
+      margin-bottom: 50px;
       padding-left: 60px;
+      margin-top: 0;
     }
 
     .texto2 h2{
@@ -118,7 +121,7 @@ position: cover;
 
     .texto3 p{
       
-      font-size: 20px;
+      font-size: 18px;
       line-height: 1.5rem;
       text-align: justify;
     }
