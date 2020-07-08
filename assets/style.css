@@ -66,7 +66,7 @@ position: cover;
       background-color: white;
       padding: 20px 20px 20px 20px;
       border-radius: 10px;
-      margin-right: 5px;
+      margin-right: 59px;
       margin-left: 60px;
     }
 
@@ -172,25 +172,6 @@ position: cover;
     color: #FFFFFF;
    }
 
-   .button  {
-     background-color: white !important;
-    border: 1px solid black !important;
-    padding: 15px;
-    height: 45px;
-    line-height: 45px;
-    color: #6DC06F !important;
-    font-size: 18px;
-    width: 100%;
-    border-radius: 500px;
-    margin-bottom: 15px;
-    transition-duration: 0.5s !important;
-    }
-     
-    .button:hover {
-      background-color: #4CAF50 !important;
-      color: white !important;
-    }
-   
     .col-md-6 {
       text-align: center;
       margin: auto;
@@ -218,7 +199,44 @@ position: cover;
       height: auto;
       width: 165px;
       margin-top: 13px;
+    }
+
+    .button {
+      background-color: white !important;
+      border: 1px solid black !important;
+      height: 45px;
+      line-height: 40px;
+      color: #6DC06F !important;
+      font-size: 35px;
+      width: 100%;
+      border-radius: 400px;
+      transition-duration: 0.5s !important;
+      padding: 2px;
+      font-weight: bold;
+      margin: auto;
   }
+      
+     .button:hover {
+       background-color: #4CAF50 !important;
+       color: white !important;
+     }
+
+    .mce-FNAME{
+      padding: 0 70px;
+      margin-bottom: 20px;
+      display: block;
+      width: 100%;
+    }
+
+    #mce-EMAIL{
+      background: #FFFFFF;
+      border: 1px solid #CFCFDB;
+      border-radius: 4px;
+      height: 50px;
+      padding: 10px;
+      font-size: 18px;
+      color: gray;
+    }
 
 @media only screen and (max-width: 480px) {
 
