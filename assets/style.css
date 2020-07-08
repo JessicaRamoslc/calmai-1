@@ -17,6 +17,12 @@ position: cover;
       box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
     }
 
+.navbarRedes{
+      padding-right: 20px;
+      padding-top: 15px; 
+       
+      
+    }
     
 
     .navbarRedes img{
@@ -31,13 +37,10 @@ position: cover;
      .container{
       max-width: 100%;
       background-color: #14252F;
-      height: 1200px;
+      height: 800px;
     }
 
-    #content{
-    width: 460px!important;
-          
-}
+    
 
      #colunaDois{
       padding-top: 50px;
@@ -48,14 +51,14 @@ position: cover;
 
     .cronometro {
       
+      max-width: 500px;
       font-size: 16px;
       background-color: white;
       text-align: center;
       border-radius: 10px;
       box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
-      padding: 55px;
-      margin-bottom: 20px;
-      max-width: 500px!important;
+      padding: 50px;
+      margin-bottom: 20px
 
     }
 
@@ -76,11 +79,11 @@ position: cover;
 
     #formulario {
      
-      height: 600px;
+     height: 400px;
       background-color: white;
       padding: 20px 20px 20px 20px;
       border-radius: 10px;
-      margin-right: 59px;
+      margin-right: 5px;
       margin-left: 60px;
     }
 
@@ -227,10 +230,11 @@ footer .row{
     .button {
       background-color: white !important;
       border: 1px solid black !important;
+      padding: 15px;
       height: 45px !important;
       line-height: 40px !important;
       color: #6DC06F !important;
-      font-size: 20px !important;
+      font-size: 18px !important;
       width: 100% !important;
       border-radius: 400px !important;
       transition-duration: 0.5s !important;
@@ -469,13 +473,13 @@ footer .row{
   }
 
   #colunaDois {
-    margin-top: -1350px;
-    padding-bottom: -2300px;
+    margin-top: -1150px;
+    padding-bottom: -300px;
 
 
   }
   #content{
-    max-height: 1400px!important;
+    max-height: 1300px!important;
   }
   
   #formulario{
