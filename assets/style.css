@@ -38,7 +38,9 @@ padding-top: 50px;
     
 
 .cronometro {
-  max-width: 500px;
+  margin-left: 35px;
+  width: 590px;
+  height: 180px;
   font-size: 18px;
   background-color: white;
   text-align: center;
