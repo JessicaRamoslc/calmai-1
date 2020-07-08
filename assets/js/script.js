@@ -66,3 +66,13 @@ document.addEventListener('mouseleave', function () {
     cont += 1;
   }
 })
+
+//Animação link
+
+var $doc = $('html, body');
+$('a').click(function() {
+    $doc.animate({
+        scrollTop: $( $.attr(this, 'href') ).offset().top
+    }, 500);
+    return false;
+});
