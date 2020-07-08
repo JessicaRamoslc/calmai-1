@@ -18,8 +18,35 @@ var x = setInterval(function() {
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
     
   // Output the result in an element with id="demo"
-  document.getElementById("demo").innerHTML = days + " dias " + hours + " horas "
-  + minutes + " minutos " + seconds + " segundos ";
+  document.getElementById("demo").innerHTML = `
+  <div style="display: flex; padding: 20px">
+<div id="floatContainer" style="
+  position: relative; margin-left: 20px; margin-right:23px; border:black 2px solid; padding: 15px;">
+  <p">${days}</p>
+  <p style="border: none;
+  outline: 0; margin-top:  -25px">dia</p>
+</div>
+<div id="floatContainer" style="
+  position: relative; margin-right:23px; border:black 2px solid; padding: 15px; ">
+  <p>${hours}</p>
+  
+  <p style="border: none;
+  outline: 0; margin-top:  -25px">h</p>
+</div>
+<div id="floatContainer" style="
+  position: relative; margin-right:23px; border:black 2px solid; padding: 15px; ">
+  <p>${minutes}</p>
+  <p style="border: none;
+  outline: 0; margin-top:  -25px">m</p>
+</div>
+<div id="floatContainer" style="
+  position: relative; margin-right:23px; border:black 2px solid; padding: 15px; ">
+  <p>${seconds}</p>
+  <p style="border: none;
+  outline: 0; margin-top:  -25px">s</p>
+</div>
+  </div>
+  `;
     
   // If the count down is over, write some text 
   if (distance < 0) {
