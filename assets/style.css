@@ -231,6 +231,13 @@ position: cover;
       width: 100% !important;
     }
 
+    #mc_embed_signup .mc-field-group label {
+      display: block;
+      margin-bottom: 10px;
+      font-size: 20px;
+      font-weight: bold;
+    }   
+
     #mce-EMAIL{
       background: #FFFFFF !important;
       border: 1px solid #CFCFDB !important;
@@ -432,18 +439,13 @@ position: cover;
     text-align: center;
     margin: 0;
   }
+
   .texto4 {
-    padding: 10px;
-    align-items: center;
-    text-align: center;
-    left: 923px;
-    top: 452px;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 30px;
-    line-height: 50px;
+    padding: 30px 30px;
+    font-size: 45px;
     color: #14252F;
-    }
+    font-weight: bold;
+  }
 
     .texto1{
       padding: 10px;
