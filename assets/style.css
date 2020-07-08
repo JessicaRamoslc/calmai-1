@@ -471,7 +471,7 @@ footer .row{
 
   }
   #content{
-    max-height: 1900px;
+    max-height: 1300px!important;
   }
   
   #formulario{
