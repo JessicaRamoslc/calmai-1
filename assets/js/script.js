@@ -21,7 +21,7 @@ var x = setInterval(function() {
   document.getElementById("demo").innerHTML = `
   <div style="display: flex; padding: 20px">
 <div id="floatContainer" style="
-  position: relative; margin-left: -10px;  margin-right:23px; border:black 2px solid; padding: 15px;">
+  position: relative; margin-left: -15px;  margin-right:23px; border:black 2px solid; padding: 15px;">
   <p">${days}</p>
   <p style="border: none;
   outline: 0; margin-top:  -25px">dia</p>
