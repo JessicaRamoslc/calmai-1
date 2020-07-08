@@ -33,7 +33,7 @@ position: cover;
     }
 
     #content{
-     padding-top: 100px;
+     padding-top: 30px;
 }
 
      #colunaDois{
@@ -226,7 +226,7 @@ footer .row{
       height: 45px !important;
       line-height: 40px !important;
       color: #6DC06F !important;
-      font-size: 35px !important;
+      font-size: 20px !important;
       width: 100% !important;
       border-radius: 400px !important;
       transition-duration: 0.5s !important;
@@ -481,7 +481,7 @@ footer .row{
   }
 
   .texto4 {
-    padding: 30px 30px;
+    
     font-size: 20px;
     color: #14252F;
     font-weight: bold;
