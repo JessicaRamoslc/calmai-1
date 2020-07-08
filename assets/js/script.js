@@ -19,7 +19,7 @@ var x = setInterval(function() {
     
   // Output the result in an element with id="demo"
   document.getElementById("demo").innerHTML = `
-  <div style="display: flex; padding-left: 180px">
+  <div id="divScript" style="display: flex; padding-left: 180px">
 <div id="floatContainer" style="
   position: relative; margin-right:25px; padding-bottom: 30px;">
   <p">${days}</p>
