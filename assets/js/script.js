@@ -51,7 +51,7 @@ var x = setInterval(function() {
   // If the count down is over, write some text 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "Estamos no ar!!";
+    document.getElementById("demo").innerHTML = "Live disponível no youtube !!";
   }
 }, 1000);
 
